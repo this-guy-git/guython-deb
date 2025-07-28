@@ -1,0 +1,8 @@
+Package: guython
+Version: 2.1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.31)
+Maintainer: this guy <thisguy@thisguylabs.com>
+Description: Guython is a language made and inspired by Python.
